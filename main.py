@@ -9,7 +9,7 @@ import POGIL12
 
 
 def main():
-    do_pogil_11() # calls function
+    do_pogil_11() 
     POGIL12.do_pogil_12()
     printMessage("Tito")
     calc_meal_price()
